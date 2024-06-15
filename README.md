@@ -37,12 +37,4 @@ Wikipedia Bot is a chatbot designed to fetch and deliver information from Wikipe
 
 <img src="v2.jpg" alt="Usage Example 2">
 
-## Contribution to the Project
 
-To contribute, create a branch, make your changes, and submit a merge request.
-
-## License
-
-This project is licensed under the [GNU General Public License v3.0](LICENSE). You are free to use, modify, and distribute it under the terms of the license.
-
-**Thank you for using Wikipedia Bot!**
